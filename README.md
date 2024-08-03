@@ -449,12 +449,15 @@ b = [1 2 3;
 
 p = [10 20 30];
 
-q = x + y
+q = b + q
 ```
+       q =
 
+          11   22   33
+          14   25   36
+          17   28   39
 
-    error: operator +: nonconformant arguments (op1 is 1x6, op2 is 5x5)
-
+    
 ### Indexação
 
 ``` octave
