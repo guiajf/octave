@@ -439,7 +439,7 @@ rot90(S, -2)
 Normalmente, as operações com matrizes são elemento a elemento; logo,
 funcionam apenas com matrizes de mesmo tamanho. Entretanto, a partir da
 versão 3.6.0, Octave permite operações com matrizes de tamanhos
-diferentes, através do mecanismo de transformaçã denominado
+diferentes, através do mecanismo de transformação denominado
 *broadcasting*.
 
 ``` octave
@@ -516,8 +516,10 @@ f2 = z(:,2:end)
 ## Intervalos
 
 Intervalos são vetores cujos elementos são separados por
-espaços.`<br>`{=html} Podemos definir sequências númericas da seguinte
-maneira:`<br>`{=html} *a) atribuindo os valores das extremidades do
+espaços.<br>
+Podemos definir sequências númericas da seguinte
+maneira:<br>
+*a) atribuindo os valores das extremidades do
 intervalo, inclusivos, separados por dois pontos;*
 
 ``` octave
