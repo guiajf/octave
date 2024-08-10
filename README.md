@@ -135,7 +135,7 @@ m1(:,:,3) = [19 20 21; 22 23 24; 25 26 27]
        22   23   24
        25   26   27
 
-### Funções integradas {#funções-integradas}
+### Funções integradas
 
 O Octave fornece um conjunto de funções integradas para a criação de
 matrizes:
